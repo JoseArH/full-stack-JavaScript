@@ -1,0 +1,14 @@
+1- Con "git init" doy inicio a un nuevo repositorio, ya abierto directamenente en la carpeta que quiero trabajar.
+
+2-Con "git add ." agrego todos los archivos pertenecientes a mi carpeta, a mi repositorio local.
+
+3-"git commit" me permite agregarle un comentario y entregar información del tipo de cambio que se hizo al archivo en GitHub.
+
+4-Con "git Branch -M main" establezco una única rama de edición del repositorio a la "main".
+
+5-Usando "git remote add origin" mas el link, establezco la conexión con mi repositorio remoto creado en GitHub.
+
+6-"git push -u origin main" sube los archivos del repo local al remoto
+
+7- Y por ultimo, con "git status" puedo ver en que estado se encuentra mi carpeta trabajada, y detectar si hay algún archivo desactualizado en la nube.
+
